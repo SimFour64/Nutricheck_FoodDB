@@ -1,0 +1,48 @@
+compound_name,food_rank,food_name,concentration
+Calcium,1.0,Rice,64.98
+Calcium,2.0,Chicken,58.06
+Calcium,3.0,Spinach,8.73
+Carbohydrate,1.0,Banana,80.06
+Carbohydrate,2.0,Rice,17.49
+Fiber,1.0,Salmon,91.06
+Fiber,2.0,Egg,82.7
+Fiber,3.0,Banana,72.8
+Fiber,4.0,Egg,58.06
+Iron,1.0,Carrot,55.69
+Iron,2.0,Chicken,54.5
+Iron,3.0,Apple,31.34
+Iron,4.0,Carrot,23.36
+Lycopene,1.0,Banana,95.38
+Lycopene,2.0,Banana,39.24
+Magnesium,1.0,Tomato,74.25
+Magnesium,2.0,Chicken,64.04
+Magnesium,3.0,Salmon,16.07
+Magnesium,4.0,Carrot,9.54
+Omega-3,1.0,Rice,84.55
+Omega-3,2.0,Tomato,83.97
+Omega-3,3.0,Egg,71.55
+Omega-3,4.0,Almond,68.06
+Omega-3,5.0,Almond,9.29
+Omega-3,6.0,Almond,8.74
+Potassium,1.0,Apple,87.73
+Potassium,2.0,Salmon,77.13
+Potassium,3.0,Banana,8.39
+Protein,1.0,Rice,63.4
+Protein,2.0,Apple,52.28
+Protein,3.0,Apple,9.32
+Sodium,1.0,Almond,53.67
+Sodium,2.0,Carrot,49.13
+Sodium,3.0,Egg,30.9
+Sodium,4.0,Spinach,30.77
+Vitamin A,1.0,Chicken,71.65
+Vitamin A,2.0,Banana,47.58
+Vitamin A,3.0,Rice,15.85
+Vitamin A,4.0,Rice,13.03
+Vitamin C,1.0,Salmon,65.02
+Vitamin C,2.0,Spinach,36.87
+Vitamin C,3.0,Carrot,16.07
+Vitamin D,1.0,Salmon,80.72
+Vitamin D,2.0,Chicken,32.64
+Vitamin D,3.0,Egg,3.34
+Water,1.0,Rice,99.24
+Zinc,1.0,Salmon,42.69
