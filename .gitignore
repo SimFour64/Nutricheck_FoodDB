@@ -1,2 +1,7 @@
 *.ipynb_checkpoints/*
 *:Zone.Identifier
+.env
+.envrc
+*.egg-info/
+__pycache__/
+.python-version
